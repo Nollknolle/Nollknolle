@@ -7,6 +7,19 @@ const UserProfile = [{
 	{
 	 name: "Testiply",
 	 website: "https://testiply.vercel.app"
+	},
+	{
+	 name: "Testiply API",
+	 description: "API for Testiply"
+	},
+	{
+	 name: "DiscordJS Template",
+	 description: "A DiscordJS bot template",
+	 website: "https://www.npmjs.com/package/@nlmyr/discordjs-template"
+	},
+	{
+	 name: "ChipX9",
+	 description: "A nice discord bot."
 	}
   ]
 }]
