@@ -15,7 +15,7 @@ const UserProfile = [{
 	{
 	 name: "DiscordJS Template",
 	 description: "A DiscordJS bot template",
-	 website: "https://www.npmjs.com/package/@nlmyr/discordjs-template"
+	 website: "https://www.npmjs.com/package/@nlmyr/create-discord-bot"
 	},
 	{
 	 name: "ChipX9",
