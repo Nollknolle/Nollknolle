@@ -20,6 +20,11 @@ const UserProfile = [{
 	{
 	 name: "ChipX9",
 	 description: "A nice discord bot."
+	},
+	{
+	 name: "Phase7",
+	 description: "A vocabulary learn tool.",
+	 website: "https://voc.lulanius.de"
 	}
   ]
 }]
